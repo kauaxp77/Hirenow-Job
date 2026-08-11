@@ -6,6 +6,7 @@
   <strong>Plataforma e Sistema focados no Recrutamento e Seleção de profissionais</strong>
 </p>
 
+
 ## 💻 Sobre o Projeto
 
 O **Hirenow** é um projeto de recrutamento para facilitar o elo entre candidatos buscando ótimas oportunidades com empresas/recrutadores de talentos. A aplicação foca numa usabilidade simples para ambas as partes.
